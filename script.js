@@ -1,1 +1,7 @@
-console.log("suca");
+const button = document.getElementById("js-button");
+
+
+button.addEventListener("click" , function() {
+
+    
+})
